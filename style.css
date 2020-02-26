@@ -1,0 +1,44 @@
+.top-floor img{
+    height: 50px;
+}
+
+.row{
+    padding: 20px;
+}
+
+.top-floor2 h2{
+    font-weight: bold;
+}
+
+p{
+    color: dimgray;
+}
+
+.btn-btn1{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.top-floor32 h2{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.top-floor32 h6{
+    font-size: 13px;
+    color: goldenrod;
+}
+
+.top-floor3 h5{
+    font-weight: bold;
+}
+
+.cat1{
+    border-radius: 40px;
+}
+
+
