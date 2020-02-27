@@ -33,12 +33,66 @@ p{
     color: goldenrod;
 }
 
+.top-floor32{
+    margin-top: 5px;
+    height: 32px;
+}
+
 .top-floor3 h5{
     font-weight: bold;
 }
 
-.cat1{
-    border-radius: 40px;
+.top-floor3 img{
+    width: 50%;
+    text-align: center;
+}
+
+.top-floor3{
+    margin-bottom: 50px;
+}
+
+.card-body{
+    text-align: center;
+}
+.card img{
+  margin-left: 70px;
+  margin-top: 8px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.updown{
+    width: 150px;
+    margin-bottom: 15px;
+}
+
+.updown img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.uper {
+    margin-top: 150px;
+    margin-right: 15px;
+    margin-left: 38px;
 }
 
 
+
+.uniq{
+    margin-top: 80px;
+}
+
+.final-test img{
+    width: 100%;
+}
+
+.final-test {
+    margin-top: 90px;
+    margin-left: 100px;
+}
