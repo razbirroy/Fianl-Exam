@@ -74,6 +74,7 @@ p{
     display: block;
     margin-left: auto;
     margin-right: auto;
+   
 }
 
 .uper {
@@ -96,3 +97,19 @@ p{
     margin-top: 90px;
     margin-left: 100px;
 }
+
+.new{
+    width: 0;
+    height: 0;
+    position: relative;
+    left: 440px;
+    right: 0;
+    top: 0;
+    bottom: 20px;
+}
+
+.first-img img{
+    border-radius: 20px;
+    width: 380px;
+    height: 250px;
+   }
